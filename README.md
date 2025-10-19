@@ -4,11 +4,11 @@
 </HEAD>
 <BODY>
 <pre>
-<hr color="blue" size="3" width=50% align="left"><font size= 4 color="red"><a
+<font size= 4 color="red"><a
 href="home.html">Home</a> | <a href="profil.html">Profil</a> | <a
 href="about.html">About</a> | <a href="galery.html">Gallery</a> |
 <a href="kontak.html">Kontak</a></font>
-<hr color="blue" size=3 width=50% align="left"> <font
+<font
 size=3>Assalammualaikum.Wr.Wb.
 Apakabar semua. Salam kenal Saya Muhammad Yasser Al Ghifari, mahasiswa dari Universitas Ma'soem
 jurusan Bisnis Digital semester 3, ini adalah web perdanaku. Web ini berisi informasi
